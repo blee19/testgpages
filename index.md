@@ -1,5 +1,5 @@
 ---
-title: The Case of the Italian Olives
+title: Olive Stuff
 ---
 
 This is the home page
