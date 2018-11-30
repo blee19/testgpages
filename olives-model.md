@@ -1,14 +1,5 @@
----
-title: Models
-nav_include: 2
-notebook: olives-model.ipynb
----
 
-
-## Contents
-{:.no_toc}
-*
-{: toc}
+# Models
 
 
 

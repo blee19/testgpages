@@ -2,6 +2,12 @@
 title: Olive Stuff
 ---
 
+
+## Contents
+{:.no_toc}
+*  
+{: toc}
+
 This is the home page
 
 ## Lets have fun
